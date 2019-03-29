@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ViktorSlavov/app-training-101.svg?branch=master)](https://travis-ci.org/ViktorSlavov/app-training-101)
+
 # my-workshop-proj
 
 This project was generated with [Ignite UI CLI](https://github.com/IgniteUI/igniteui-cli) version 4.1.3.
