@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/ViktorSlavov/app-training-101.svg?branch=master)](https://travis-ci.org/ViktorSlavov/app-training-101)
 
+[![Build Status](https://dev.azure.com/CustomOrg/Training-App/_apis/build/status/ViktorSlavov.app-training-101?branchName=master)](https://dev.azure.com/CustomOrg/Training-App/_build/latest?definitionId=1&branchName=master)
+
 # my-workshop-proj
 
 This project was generated with [Ignite UI CLI](https://github.com/IgniteUI/igniteui-cli) version 4.1.3.
